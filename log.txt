@@ -163,3 +163,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/Display OLED I2C Blue 0.96 to Display-OLED-I2C-Blue-0.96-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Display OLED I2C White 0.96/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 8522e67] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/Display-OLED-I2C-White-0.96-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/Display OLED I2C Blue 0.96/OUTPUTS/V1.2.2: all files are present, commiting...
+Display-OLED-I2C-Blue-0.96-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/Display OLED I2C Blue 0.96 to Display-OLED-I2C-Blue-0.96-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Display OLED I2C White 0.96/.git/
